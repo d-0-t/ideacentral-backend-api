@@ -1,5 +1,7 @@
 # **Idea Central - REST API**
 
+#### The frontend is under development, see some screenshots [here](https://imgur.com/a/o56KUaa)!
+
 At Idea Central, after registering an user, the user has access to execute verious operations.  
 Admin roles also exist, with operations that are only accessible to them.
 
