@@ -10,7 +10,7 @@
 
 //@ts-nocheck
 
-export default function mergeDeep(...objects) {
+export function mergeDeep(...objects) {
   const isObject = (obj) => obj && typeof obj === "object";
 
   return objects.reduce((prev, obj) => {
@@ -22,6 +22,26 @@ export default function mergeDeep(...objects) {
         prev[key] = pVal.concat(...oVal);
       } else if (isObject(pVal) && isObject(oVal)) {
         prev[key] = mergeDeep(pVal, oVal);
+      } else {
+        prev[key] = oVal;
+      }
+    });
+
+    return prev;
+  }, {});
+}
+
+export function mergeDeepWithArrayOverwrite(...objects) {
+  const isObject = (obj) => obj && typeof obj === "object";
+
+  return objects.reduce((prev, obj) => {
+    Object.keys(obj).forEach((key) => {
+      const pVal = prev[key];
+      const oVal = obj[key];
+      if (Array.isArray(pVal) && Array.isArray(oVal)) {
+        prev[key] = [...oVal];
+      } else if (isObject(pVal) && isObject(oVal)) {
+        prev[key] = mergeDeepWithArrayOverwrite(pVal, oVal);
       } else {
         prev[key] = oVal;
       }

@@ -6,13 +6,28 @@ async function createIdea(Idea: IdeaDocument): Promise<IdeaDocument> {
 
 async function findAllIdeas(): Promise<IdeaDocument[]> {
   return Idea.find()
-    .populate({ path: "author", select: "login.username" })
-    .populate({ path: "stats.upvotes.users", select: "login.username" })
-    .populate({ path: "stats.downvotes.users", select: "login.username" })
-    .populate({ path: "stats.favorites.users", select: "login.username" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.upvotes.users",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.downvotes.users",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.favorites.users",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "comments",
-      populate: { path: "author", select: "login.username" },
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
+      },
     });
 }
 async function findIdeaByIdUnpopulated(
@@ -23,25 +38,55 @@ async function findIdeaByIdUnpopulated(
 }
 async function findIdeaById(id: string): Promise<IdeaDocument | null> {
   let idea = await Idea.findById(id)
-    .populate({ path: "author", select: "login.username" })
-    .populate({ path: "stats.upvotes.users", select: "login.username" })
-    .populate({ path: "stats.downvotes.users", select: "login.username" })
-    .populate({ path: "stats.favorites.users", select: "login.username" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.upvotes.users",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.downvotes.users",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.favorites.users",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "comments",
-      populate: { path: "author", select: "login.username" },
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
+      },
     });
   return idea;
 }
 async function findAllPublishedIdeas(): Promise<IdeaDocument[]> {
   let idea = await Idea.find({ published: true })
-    .populate({ path: "author", select: "login.username" })
-    .populate({ path: "stats.upvotes.users", select: "login.username" })
-    .populate({ path: "stats.downvotes.users", select: "login.username" })
-    .populate({ path: "stats.favorites.users", select: "login.username" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.upvotes.users",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.downvotes.users",
+      select: "login.username personal.avatar power",
+    })
+    .populate({
+      path: "stats.favorites.users",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "comments",
-      populate: { path: "author", select: "login.username" },
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
+      },
     });
   return idea;
 }

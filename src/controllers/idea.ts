@@ -93,21 +93,24 @@ export const findAllPublishedIdeas = async (
   try {
     let ideas = await IdeaService.findAllPublishedIdeas();
     let anonimizedIdeas: any = [];
+    //Previous condition: && req.user?.login.admin === false
     //@ts-ignore
-    if (ideas && req.user?.login.admin === false) {
+    if (ideas) {
       ideas.forEach((original) => {
         let corrected = { ...original.toJSON() };
-        //@ts-ignore
-        //idea = idea.toJSON();
+        //Previous condition: original.author._id.toString() !== req.user?._id.toString()
         if (
           original?.anonymous && //@ts-ignore
-          original?.author?._id && //@ts-ignore
-          original.author._id.toString() !== req.user?._id.toString()
+          original?.author?._id
         ) {
           //@ts-ignore
           corrected.author.login.username = "Anonymous";
           //@ts-ignore
           corrected.author._id = "hidden";
+          //@ts-ignore
+          corrected.author.personal.avatar = "";
+          //@ts-ignore
+          corrected.author.power = 0;
         }
         anonimizedIdeas.push(corrected);
       });
@@ -135,8 +138,14 @@ export const findIdeaById = async (
         idea.author._id.toString() !== req.user?._id.toString()
       ) {
         //@ts-ignore
-        idea.author.login.username = "Anonymous"; //@ts-ignore
+        idea.author.login.username = "Anonymous";
+        //@ts-ignore
         idea.author._id = "hidden";
+        //@ts-ignore
+        idea.author.personal.avatar = "";
+        //@ts-ignore
+        idea.author.power = 0;
+        //@ts-ignore
       }
     }
     return res.json(idea);
@@ -284,7 +293,7 @@ export const addFavorite = async (
       const idea = await IdeaService.addUserToFavorites(ideaId, userId);
       if (idea) {
         await UserService.addFavoriteIdeaToUser(userId, ideaId);
-        await UserService.powerUpdate(idea.author, 10);
+        await UserService.powerUpdate(ideaCheck.author, 10);
         return res.json(idea);
       }
     } else {
@@ -304,10 +313,15 @@ export const removeFavorite = async (
 ) => {
   let { ideaId, userId } = req.params;
   try {
+    const ideaCheck = await IdeaService.findIdeaByIdUnpopulated(ideaId);
+    if (!ideaCheck) return res.status(400).json({ error: "Idea not found." });
+    let userCheck = await UserService.findOneUserUnpopulated(userId);
+    if (!userCheck) return res.status(400).json({ error: "User not found." });
+
     const idea = await IdeaService.removeUserFromFavorites(ideaId, userId);
     if (idea) {
       await UserService.removeFavoriteIdeaFromUser(userId, ideaId);
-      await UserService.powerUpdate(idea.author, -10);
+      await UserService.powerUpdate(ideaCheck.author, -10);
       return res.json(idea);
     }
   } catch (error) {
@@ -341,12 +355,12 @@ export const upvoteIdea = async (
       await UserService.addUpvoteToUser(userId, ideaId);
       let isItDownvoted: boolean = idea.stats.downvotes.users.includes(userId);
       if (isItDownvoted) {
-        await UserService.powerUpdate(idea.author, 2);
+        await UserService.powerUpdate(ideaCheck.author, 2);
         await UserService.removeDownvoteFromUser(userId, ideaId);
         let newIdea = await IdeaService.removeUserFromDownvotes(ideaId, userId);
         return res.json(newIdea);
       } else {
-        await UserService.powerUpdate(idea.author, 1);
+        let pow = await UserService.powerUpdate(ideaCheck.author, 1);
         return res.json(idea);
       }
     }
@@ -370,7 +384,7 @@ export const removeUpvoteFromIdea = async (
 
     let idea = await IdeaService.removeUserFromUpvotes(ideaId, userId);
     if (idea) {
-      await UserService.powerUpdate(idea.author, -1);
+      await UserService.powerUpdate(voteCheck.author, -1);
       await UserService.removeUpvoteFromUser(userId, ideaId);
     }
     return res.json(idea);
@@ -406,12 +420,12 @@ export const downvoteIdea = async (
 
       let isItUpvoted: boolean = idea.stats.upvotes.users.includes(userId);
       if (isItUpvoted) {
-        await UserService.powerUpdate(idea.author, -2);
+        await UserService.powerUpdate(ideaCheck.author, -2);
         await UserService.removeUpvoteFromUser(userId, ideaId);
         let newIdea = await IdeaService.removeUserFromUpvotes(ideaId, userId);
         return res.json(newIdea);
       } else {
-        await UserService.powerUpdate(idea.author, -1);
+        await UserService.powerUpdate(ideaCheck.author, -1);
         return res.json(idea);
       }
     }
@@ -435,7 +449,7 @@ export const removeDownvoteFromIdea = async (
 
     let idea = await IdeaService.removeUserFromDownvotes(ideaId, userId);
     if (idea) {
-      await UserService.powerUpdate(idea.author, 1);
+      await UserService.powerUpdate(voteCheck.author, 1);
       await UserService.removeDownvoteFromUser(userId, ideaId);
     }
     return res.json(idea);

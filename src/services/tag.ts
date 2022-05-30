@@ -18,7 +18,7 @@ async function findTagByTitleWithPublishedIdeas(
       $and: [{ published: { $eq: true } }, { anonymous: { $eq: false } }],
     },
     select:
-      "title description tags stats.upvotes.count stats.downvotes.count stats.favorites.count",
+      "title author description tags stats.upvotes.count stats.downvotes.count stats.favorites.count",
   });
   return tag;
 }
@@ -30,7 +30,7 @@ async function findAllTagsWithPublishedIdeas(): Promise<TagDocument[]> {
       $and: [{ published: { $eq: true } }, { anonymous: { $eq: false } }],
     },
     select:
-      "title description tags stats.upvotes.count stats.downvotes.count stats.favorites.count",
+      "title author description tags stats.upvotes.count stats.downvotes.count stats.favorites.count",
   });
 }
 

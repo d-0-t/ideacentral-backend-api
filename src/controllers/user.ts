@@ -1,7 +1,7 @@
 import { Request, Response, NextFunction } from "express";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
-import User from "../models/User";
+import User, { LinkType } from "../models/User";
 import { JWT_SECRET } from "../util/secrets";
 import UserService from "../services/user";
 import CommentService from "../services/comment";
@@ -14,8 +14,9 @@ import {
   InternalServerError,
 } from "../helpers/apiError";
 import { inputObjectCheck } from "../helpers/inputCheck";
-import mergeDeep from "../helpers/deepMerge";
+import { mergeDeepWithArrayOverwrite } from "../helpers/deepMerge";
 import defaultUser from "../helpers/defaultUser";
+import { IdeaDocument } from "../models/Idea";
 
 export const createUser = async (
   req: Request,
@@ -84,7 +85,13 @@ export const loginUser = async (
         return next(new BadRequestError("Password is Incorrect"));
       }
       const token = jwt.sign(
-        { userId: user._id, email: user.login.email },
+        {
+          id: user._id,
+          email: user.login.email,
+          username: user.login.username,
+          admin: user.login.admin,
+          banned: user.login.banned,
+        },
         JWT_SECRET
       );
       // if token expires, add argument after JWT_SECRET:
@@ -117,7 +124,23 @@ export const findOneUser = async (
 ) => {
   let { id } = req.params;
   try {
-    return res.json(await UserService.findOneUser(id));
+    let fetchedUser = await UserService.findOneUser(id);
+    let user: any = fetchedUser ? { ...fetchedUser.toJSON() } : null;
+
+    if (user?.interactions) {
+      let interactionType: string[] = ["upvotes", "downvotes", "favorites"];
+      interactionType.forEach((interaction: string) => {
+        user.interactions[interaction].forEach((idea: any) => {
+          if (idea.anonymous && typeof idea.author === "object") {
+            idea.author.login.username = "Anonymous";
+            idea.author._id = "hidden";
+            idea.author.personal.avatar = "";
+            idea.author.power = 0;
+          }
+        });
+      });
+    }
+    return res.json(user);
   } catch (error) {
     return next(new NotFoundError("User not found", error));
   }
@@ -148,6 +171,9 @@ export const findOneUserPublic = async (
       !user.personal.contacts.phone.public
         ? delete user.personal.contacts.phone
         : null;
+      user.personal.contacts.links = user.personal.contacts.links.filter(
+        (link: LinkType) => link.public
+      );
     }
     return res.json(user);
   } catch (error) {
@@ -174,12 +200,10 @@ export const updateUser = async (
     //@ts-ignore
     (!req?.user?.login?.admin && typeof req.body.login?.banned !== "undefined")
   )
-    return res
-      .status(400)
-      .json({
-        error:
-          "Insufficient permissions for setting roles. You must be an admin to modify user roles and access.",
-      });
+    return res.status(400).json({
+      error:
+        "Insufficient permissions for setting roles. You must be an admin to modify user roles and access.",
+    });
 
   // assuming the whole links section is sent...
   let links = data?.personal?.contacts?.links;
@@ -205,12 +229,9 @@ export const updateUser = async (
   if (data?._id) delete data.follow;
 
   try {
-    //TODO
-    //check if req.user = admin? if yes, allow banning, else not!
-
     let user = await UserService.findFullUser(id);
     if (user) {
-      let updatedUser = mergeDeep(user.toJSON(), data);
+      let updatedUser = mergeDeepWithArrayOverwrite({ ...user.toJSON() }, data);
       let updatedUserDocument = await UserService.updateUser(id, updatedUser);
       return res.json(updatedUserDocument);
     }
@@ -296,7 +317,7 @@ export const deleteUser = async (
               userId
             );
             if (upvotedIdea) {
-              await UserService.powerUpdate(upvotedIdea.author, -1);
+              await UserService.powerUpdate(ideaToCheck.author, -1);
             }
           }
         });
@@ -314,7 +335,7 @@ export const deleteUser = async (
               userId
             );
             if (downvotedIdea) {
-              await UserService.powerUpdate(downvotedIdea.author, 1);
+              await UserService.powerUpdate(ideaToCheck.author, 1);
             }
           }
         });
@@ -334,7 +355,7 @@ export const deleteUser = async (
               userId
             );
             if (favoriteIdea) {
-              await UserService.powerUpdate(favoriteIdea.author, -10);
+              await UserService.powerUpdate(ideaToCheck.author, -10);
             }
           }
         });

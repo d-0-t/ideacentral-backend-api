@@ -30,20 +30,32 @@ async function findOneUser(id: string): Promise<UserDocument | null> {
     .populate({ path: "ideas comments" })
     .populate({
       path: "interactions.favorites",
-      match: {
-        $and: [{ published: { $eq: true } }, { anonymous: { $eq: false } }],
+      match: { published: { $eq: true } },
+      select:
+        "-comments -stats.upvotes.users -stats.downvotes.users -stats.favorites.users",
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
       },
     })
     .populate({
       path: "interactions.upvotes",
-      match: {
-        $and: [{ published: { $eq: true } }, { anonymous: { $eq: false } }],
+      match: { published: { $eq: true } },
+      select:
+        "-comments -stats.upvotes.users -stats.downvotes.users -stats.favorites.users",
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
       },
     })
     .populate({
       path: "interactions.downvotes",
-      match: {
-        $and: [{ published: { $eq: true } }, { anonymous: { $eq: false } }],
+      match: { published: { $eq: true } },
+      select:
+        "-comments -stats.upvotes.users -stats.downvotes.users -stats.favorites.users",
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
       },
     })
     .populate({ path: "interactions.comments" })
@@ -63,7 +75,11 @@ async function findOneUserPublic(id: string): Promise<UserDocument | null> {
         $and: [{ published: { $eq: true } }, { anonymous: { $eq: false } }],
       },
       select:
-        "title description tags stats.upvotes.count stats.downvotes.count stats.favorites.count",
+        "-comments -stats.upvotes.users -stats.downvotes.users -stats.favorites.users",
+      populate: {
+        path: "author",
+        select: "login.username personal.avatar power",
+      },
     });
   return user;
 }

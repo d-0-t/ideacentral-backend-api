@@ -1,0 +1,1449 @@
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env.example file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Using .env.example file to supply config environment variables"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"login.username":1},"keyValue":{"login.username":"Ben"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Tag validation failed","errors":{"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Tag validation failed: title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"name":1},"keyValue":{"name":null},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"title":1},"keyValue":{"title":"xxx"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Report validation failed","errors":{"by":{"kind":"required","message":"Path `by` is required.","name":"ValidatorError","path":"by","properties":{"message":"Path `by` is required.","path":"by","type":"required"}},"contentId":{"kind":"required","message":"Path `contentId` is required.","name":"ValidatorError","path":"contentId","properties":{"message":"Path `contentId` is required.","path":"contentId","type":"required"}},"ref":{"kind":"required","message":"Path `ref` is required.","name":"ValidatorError","path":"ref","properties":{"message":"Path `ref` is required.","path":"ref","type":"required"}},"targetedUserId":{"kind":"required","message":"Path `targetedUserId` is required.","name":"ValidatorError","path":"targetedUserId","properties":{"message":"Path `targetedUserId` is required.","path":"targetedUserId","type":"required"}}},"level":"error","message":"Report validation failed: by: Path `by` is required., ref: Path `ref` is required., targetedUserId: Path `targetedUserId` is required., contentId: Path `contentId` is required.","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"by":{"kind":"required","message":"Path `by` is required.","name":"ValidatorError","path":"by","properties":{"message":"Path `by` is required.","path":"by","type":"required"}},"contentId":{"kind":"required","message":"Path `contentId` is required.","name":"ValidatorError","path":"contentId","properties":{"message":"Path `contentId` is required.","path":"contentId","type":"required"}},"ref":{"kind":"required","message":"Path `ref` is required.","name":"ValidatorError","path":"ref","properties":{"message":"Path `ref` is required.","path":"ref","type":"required"}},"targetedUserId":{"kind":"required","message":"Path `targetedUserId` is required.","name":"ValidatorError","path":"targetedUserId","properties":{"message":"Path `targetedUserId` is required.","path":"targetedUserId","type":"required"}}},"level":"error","message":"Report validation failed: by: Path `by` is required., ref: Path `ref` is required., targetedUserId: Path `targetedUserId` is required., contentId: Path `contentId` is required.","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"by":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"Jobs\" (type string) at path \"by\"","name":"CastError","path":"by","reason":{},"stringValue":"\"Jobs\"","value":"Jobs","valueType":"string"},"contentId":{"kind":"required","message":"Path `contentId` is required.","name":"ValidatorError","path":"contentId","properties":{"message":"Path `contentId` is required.","path":"contentId","type":"required"}},"ref":{"kind":"required","message":"Path `ref` is required.","name":"ValidatorError","path":"ref","properties":{"message":"Path `ref` is required.","path":"ref","type":"required"}},"targetedUserId":{"kind":"required","message":"Path `targetedUserId` is required.","name":"ValidatorError","path":"targetedUserId","properties":{"message":"Path `targetedUserId` is required.","path":"targetedUserId","type":"required"}}},"level":"error","message":"Report validation failed: by: Cast to ObjectId failed for value \"Jobs\" (type string) at path \"by\", ref: Path `ref` is required., targetedUserId: Path `targetedUserId` is required., contentId: Path `contentId` is required.","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"by":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"Jobs\" (type string) at path \"by\"","name":"CastError","path":"by","reason":{},"stringValue":"\"Jobs\"","value":"Jobs","valueType":"string"},"contentId":{"kind":"required","message":"Path `contentId` is required.","name":"ValidatorError","path":"contentId","properties":{"message":"Path `contentId` is required.","path":"contentId","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"targetedUserId":{"kind":"required","message":"Path `targetedUserId` is required.","name":"ValidatorError","path":"targetedUserId","properties":{"message":"Path `targetedUserId` is required.","path":"targetedUserId","type":"required"}}},"level":"error","message":"Report validation failed: by: Cast to ObjectId failed for value \"Jobs\" (type string) at path \"by\", targetedUserId: Path `targetedUserId` is required., contentId: Path `contentId` is required., description: Path `description` is required.","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"by":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"Jobs\" (type string) at path \"by\"","name":"CastError","path":"by","reason":{},"stringValue":"\"Jobs\"","value":"Jobs","valueType":"string"},"contentId":{"kind":"required","message":"Path `contentId` is required.","name":"ValidatorError","path":"contentId","properties":{"message":"Path `contentId` is required.","path":"contentId","type":"required"}},"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"targetedUserId":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"adf\" (type string) at path \"targetedUserId\"","name":"CastError","path":"targetedUserId","reason":{},"stringValue":"\"adf\"","value":"adf","valueType":"string"}},"level":"error","message":"Report validation failed: by: Cast to ObjectId failed for value \"Jobs\" (type string) at path \"by\", targetedUserId: Cast to ObjectId failed for value \"adf\" (type string) at path \"targetedUserId\", contentId: Path `contentId` is required., description: Path `description` is required.","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"by":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"D\" (type string) at path \"by\"","name":"CastError","path":"by","reason":{},"stringValue":"\"D\"","value":"D","valueType":"string"},"targetedUserId":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"A\" (type string) at path \"targetedUserId\"","name":"CastError","path":"targetedUserId","reason":{},"stringValue":"\"A\"","value":"A","valueType":"string"}},"level":"error","message":"Report validation failed: by: Cast to ObjectId failed for value \"D\" (type string) at path \"by\", targetedUserId: Cast to ObjectId failed for value \"A\" (type string) at path \"targetedUserId\"","name":"ValidationError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"f\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"f\"","value":"f","valueType":"string"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56x\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56x\"","value":"6238b5e3a0b738082453d56x","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56y\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56y\"","value":"6238b5e3a0b738082453d56y","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56y\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56y\"","value":"6238b5e3a0b738082453d56y","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238b5e3a0b738082453d56y\" (type string) at path \"by\" for model \"Report\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238b5e3a0b738082453d56y\"","value":"6238b5e3a0b738082453d56y","valueType":"string"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"_message":"Report validation failed","errors":{"description":{"kind":"string","message":"Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"CastError","path":"description","reason":null,"stringValue":"\"[ 'Just cos.' ]\"","value":["Just cos."],"valueType":"Array"}},"level":"error","message":"Report validation failed: description: Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"description":{"kind":"string","message":"Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"CastError","path":"description","reason":null,"stringValue":"\"[ 'Just cos.' ]\"","value":["Just cos."],"valueType":"Array"}},"level":"error","message":"Report validation failed: description: Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"description":{"kind":"string","message":"Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"CastError","path":"description","reason":null,"stringValue":"\"[ 'Just cos.' ]\"","value":["Just cos."],"valueType":"Array"}},"level":"error","message":"Report validation failed: description: Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"description":{"kind":"string","message":"Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"CastError","path":"description","reason":null,"stringValue":"\"[ 'Just cos.' ]\"","value":["Just cos."],"valueType":"Array"}},"level":"error","message":"Report validation failed: description: Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"description":{"kind":"string","message":"Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"CastError","path":"description","reason":null,"stringValue":"\"[ 'Just cos.' ]\"","value":["Just cos."],"valueType":"Array"}},"level":"error","message":"Report validation failed: description: Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"ValidationError"}
+{"_message":"Report validation failed","errors":{"description":{"kind":"string","message":"Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"CastError","path":"description","reason":null,"stringValue":"\"[ 'Just cos.' ]\"","value":["Just cos."],"valueType":"Array"}},"level":"error","message":"Report validation failed: description: Cast to string failed for value \"[ 'Just cos.' ]\" (type Array) at path \"description\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6238dd797926825f0c553a19y\" (type string) at path \"by\"","name":"CastError","path":"by","reason":{},"stringValue":"\"6238dd797926825f0c553a19y\"","value":"6238dd797926825f0c553a19y","valueType":"string"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"code":11000,"driver":true,"index":0,"keyPattern":{"contentId":1},"keyValue":{"contentId":"6238b5e3a0b738082453d56d"},"level":"error","name":"MongoError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ id: '6238b5e3a0b738082453d565' }\" (type Object) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ id: '6238b5e3a0b738082453d565' }\"","value":{"id":"6238b5e3a0b738082453d565"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ id: '6238b5e3a0b738082453d565' }\" (type Object) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ id: '6238b5e3a0b738082453d565' }\"","value":{"id":"6238b5e3a0b738082453d565"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ id: '6238b5e3a0b738082453d565' }\" (type Object) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ id: '6238b5e3a0b738082453d565' }\"","value":{"id":"6238b5e3a0b738082453d565"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ id: '6238b5e3a0b738082453d565' }\" (type Object) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ id: '6238b5e3a0b738082453d565' }\"","value":{"id":"6238b5e3a0b738082453d565"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ id: '6238b5e3a0b738082453d565' }\" (type Object) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ id: '6238b5e3a0b738082453d565' }\"","value":{"id":"6238b5e3a0b738082453d565"},"valueType":"Object"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ id: '6238b5e3a0b738082453d565' }\" (type Object) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ id: '6238b5e3a0b738082453d565' }\"","value":{"id":"6238b5e3a0b738082453d565"},"valueType":"Object"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e401aa65a075a8001aedb\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e401aa65a075a8001aedb }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e401aa65a075a8001aedb }\"","value":{"messageId":"623e401aa65a075a8001aedb"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e401aa65a075a8001aedb\"}]\"","value":"[{\"messageId\":\"623e401aa65a075a8001aedb\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e401aa65a075a8001aedb\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e401fa65a075a8001aedf\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e401fa65a075a8001aedf }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e401fa65a075a8001aedf }\"","value":{"messageId":"623e401fa65a075a8001aedf"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e401fa65a075a8001aedf\"}]\"","value":"[{\"messageId\":\"623e401fa65a075a8001aedf\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e401fa65a075a8001aedf\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e40f4a65a075a8001aee8\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e40f4a65a075a8001aee8 }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e40f4a65a075a8001aee8 }\"","value":{"messageId":"623e40f4a65a075a8001aee8"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e40f4a65a075a8001aee8\"}]\"","value":"[{\"messageId\":\"623e40f4a65a075a8001aee8\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e40f4a65a075a8001aee8\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e40f9a65a075a8001aeec\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e40f9a65a075a8001aeec }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e40f9a65a075a8001aeec }\"","value":{"messageId":"623e40f9a65a075a8001aeec"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e40f9a65a075a8001aeec\"}]\"","value":"[{\"messageId\":\"623e40f9a65a075a8001aeec\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e40f9a65a075a8001aeec\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e496d639fa70f441bda08\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e496d639fa70f441bda08 }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e496d639fa70f441bda08 }\"","value":{"messageId":"623e496d639fa70f441bda08"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e496d639fa70f441bda08\"}]\"","value":"[{\"messageId\":\"623e496d639fa70f441bda08\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e496d639fa70f441bda08\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e49b42585c654d0173369\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e49b42585c654d0173369 }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e49b42585c654d0173369 }\"","value":{"messageId":"623e49b42585c654d0173369"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e49b42585c654d0173369\"}]\"","value":"[{\"messageId\":\"623e49b42585c654d0173369\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e49b42585c654d0173369\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e4a1da1c36a3ec85fa22e\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e4a1da1c36a3ec85fa22e }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e4a1da1c36a3ec85fa22e }\"","value":{"messageId":"623e4a1da1c36a3ec85fa22e"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e4a1da1c36a3ec85fa22e\"}]\"","value":"[{\"messageId\":\"623e4a1da1c36a3ec85fa22e\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e4a1da1c36a3ec85fa22e\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"messages.0.messages.0":{"kind":"[ObjectId]","message":"Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e4a1fa1c36a3ec85fa232\"}]\" (type string) at path \"messages.0\"","name":"CastError","path":"messages.0","reason":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ messageId: 623e4a1fa1c36a3ec85fa232 }\" (type Object) at path \"messages\"","name":"CastError","path":"messages","reason":{},"stringValue":"\"{ messageId: 623e4a1fa1c36a3ec85fa232 }\"","value":{"messageId":"623e4a1fa1c36a3ec85fa232"},"valueType":"Object"},"stringValue":"\"[{\"messageId\":\"623e4a1fa1c36a3ec85fa232\"}]\"","value":"[{\"messageId\":\"623e4a1fa1c36a3ec85fa232\"}]","valueType":"string"}},"level":"error","message":"User validation failed: messages.0.messages.0: Cast to [ObjectId] failed for value \"[{\"messageId\":\"623e4a1fa1c36a3ec85fa232\"}]\" (type string) at path \"messages.0\"","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"_message":"Idea validation failed","errors":{"author":{"kind":"required","message":"Path `author` is required.","name":"ValidatorError","path":"author","properties":{"message":"Path `author` is required.","path":"author","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: author: Path `author` is required., title: Path `title` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"23e3b5d5d969722b086c4bc\" (type string) at path \"assignedTo\" for model \"Report\"","name":"CastError","path":"assignedTo","reason":{},"stringValue":"\"23e3b5d5d969722b086c4bc\"","value":"23e3b5d5d969722b086c4bc","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"23e3b5d5d969722b086c4bc\" (type string) at path \"assignedTo\" for model \"Report\"","name":"CastError","path":"assignedTo","reason":{},"stringValue":"\"23e3b5d5d969722b086c4bc\"","value":"23e3b5d5d969722b086c4bc","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"assigned\" (type string) at path \"_id\" for model \"Report\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"assigned\"","value":"assigned","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"x624b264b8e758d4c845f2867\" (type string) at path \"_id\" for model \"Report\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"x624b264b8e758d4c845f2867\"","value":"x624b264b8e758d4c845f2867","valueType":"string"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"The reference type is invalid."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"User validation failed","errors":{"login.email":{"kind":"required","message":"Path `login.email` is required.","name":"ValidatorError","path":"login.email","properties":{"message":"Path `login.email` is required.","path":"login.email","type":"required"}},"login.password":{"kind":"required","message":"Path `login.password` is required.","name":"ValidatorError","path":"login.password","properties":{"message":"Path `login.password` is required.","path":"login.password","type":"required"}},"login.username":{"kind":"required","message":"Path `login.username` is required.","name":"ValidatorError","path":"login.username","properties":{"message":"Path `login.username` is required.","path":"login.username","type":"required"}}},"level":"error","message":"User validation failed: login.password: Path `login.password` is required., login.email: Path `login.email` is required., login.username: Path `login.username` is required.","name":"ValidationError"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"published\" (type string) at path \"_id\" for model \"Idea\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"published\"","value":"published","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"Idea\"","name":"CastError","path":"_id","reason":{},"stringValue":"\":id\"","value":":id","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"Idea\"","name":"CastError","path":"_id","reason":{},"stringValue":"\":id\"","value":":id","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea was not downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"You can't upvote your own idea."}}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"error","message":{"error":"You can't downvote your own idea."}}
+{"level":"error","message":{"error":"Idea was not downvoted by you."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea was not downvoted by you."}}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea was not downvoted by you."}}
+{"level":"error","message":{"error":"Idea was not downvoted by you."}}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"Idea is already downvoted by you."}}
+{"level":"error","message":{"error":"The idea was not upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"error","message":{"error":"Idea is already upvoted by you."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"_message":"Idea validation failed","errors":{"description":{"kind":"required","message":"Path `description` is required.","name":"ValidatorError","path":"description","properties":{"message":"Path `description` is required.","path":"description","type":"required"}},"title":{"kind":"required","message":"Path `title` is required.","name":"ValidatorError","path":"title","properties":{"message":"Path `title` is required.","path":"title","type":"required"}}},"level":"error","message":"Idea validation failed: title: Path `title` is required., description: Path `description` is required.","name":"ValidationError"}
+{"_message":"Comment validation failed","errors":{"comment":{"kind":"string","message":"Cast to string failed for value \"[ \"this is bad because it's an array\" ]\" (type Array) at path \"comment\"","name":"CastError","path":"comment","reason":null,"stringValue":"\"[ \"this is bad because it's an array\" ]\"","value":["this is bad because it's an array"],"valueType":"Array"},"idea":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"\" (type string) at path \"idea\"","name":"CastError","path":"idea","reason":{},"stringValue":"\"\"","value":"","valueType":"string"}},"level":"error","message":"Comment validation failed: idea: Cast to ObjectId failed for value \"\" (type string) at path \"idea\", comment: Cast to string failed for value \"[ \"this is bad because it's an array\" ]\" (type Array) at path \"comment\"","name":"ValidationError"}
+{"_message":"Comment validation failed","errors":{"idea":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"\" (type string) at path \"idea\"","name":"CastError","path":"idea","reason":{},"stringValue":"\"\"","value":"","valueType":"string"}},"level":"error","message":"Comment validation failed: idea: Cast to ObjectId failed for value \"\" (type string) at path \"idea\"","name":"ValidationError"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"idea\" (type string) at path \"_id\" for model \"Comment\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"idea\"","value":"idea","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"author\" (type string) at path \"_id\" for model \"Comment\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"author\"","value":"author","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7085110521157910529","signature":{"hash":"ESKGDXFsiWgR5bz9h0rSGGdZWDM=","keyId":"7067463020229689348"}},"code":2,"codeName":"BadValue","level":"error","name":"MongoError","ok":0,"operationTime":"7085110521157910529"}
+{"$clusterTime":{"clusterTime":"7085110564107583490","signature":{"hash":"TnATiK9zJ1Z5a3NMSv1SxAiITYc=","keyId":"7067463020229689348"}},"code":2,"codeName":"BadValue","level":"error","name":"MongoError","ok":0,"operationTime":"7085110564107583490"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"date","message":"Cast to date failed for value \"{}\" (type Object) at path \"personal.birthday.date\"","name":"CastError","path":"personal.birthday.date","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"{}\"","value":{},"valueType":"Object"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"date","message":"Cast to date failed for value \"{}\" (type Object) at path \"personal.birthday.date\"","name":"CastError","path":"personal.birthday.date","reason":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":true,"operator":"=="},"stringValue":"\"{}\"","value":{},"valueType":"Object"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"156\" (type string) at path \"_id\" for model \"User\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"156\"","value":"156","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"156\" (type string) at path \"_id\" for model \"User\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"156\"","value":"156","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7087678185751445538","signature":{"hash":"8+nh2/zz7AYCY4M9AjtKTWIn3d4=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7087678185751445538"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7087678529348829198","signature":{"hash":"rg8dZWbQGji0hrc8nxrznnwjz28=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7087678529348829198"}
+{"$clusterTime":{"clusterTime":"7087685624634802188","signature":{"hash":"KyZpZ+n9glQZHDjmd97GZ4Xduf0=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7087685624634802188"}
+{"$clusterTime":{"clusterTime":"7087688463608184848","signature":{"hash":"IHgjCCbc6kY7SlaEu+4Tcx26l5g=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7087688463608184848"}
+{"$clusterTime":{"clusterTime":"7088037842017845262","signature":{"hash":"c3xUHdDeJHVpNSUeNPGVM9l5gg8=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088037842017845260"}
+{"$clusterTime":{"clusterTime":"7088039907897114638","signature":{"hash":"0iAZZ0QV7TiB4zQK0mnvesMuDx4=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088039907897114638"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7088040741120770054","signature":{"hash":"gqIQvoUTk78lxcwjmLfhGrEJ7LI=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088040741120770054"}
+{"$clusterTime":{"clusterTime":"7088041591524294660","signature":{"hash":"HPQuK4KjbKbuM5UBhp0KH6WVkU8=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088041591524294660"}
+{"$clusterTime":{"clusterTime":"7088041595819261958","signature":{"hash":"RYDIN0lTY0L/seQ3T6BdyjMy1p4=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088041595819261958"}
+{"$clusterTime":{"clusterTime":"7088041595819261964","signature":{"hash":"RYDIN0lTY0L/seQ3T6BdyjMy1p4=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088041595819261964"}
+{"$clusterTime":{"clusterTime":"7088042008136122374","signature":{"hash":"LCAoTReW50LmT5GdO7l+kULDvYg=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088042008136122374"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7088044211454345222","signature":{"hash":"srAsTNDazIoXmgRJGM9ICIquajI=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088044211454345222"}
+{"$clusterTime":{"clusterTime":"7088044499217154054","signature":{"hash":"b3drXjFcFB48cbmUrqkOlRy6j24=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088044499217154054"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7088045731872768001","signature":{"hash":"tHvytr5QtKcxUtmGzA9SVw+egb0=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088045731872768001"}
+{"$clusterTime":{"clusterTime":"7088045731872768001","signature":{"hash":"tHvytr5QtKcxUtmGzA9SVw+egb0=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088045731872768001"}
+{"$clusterTime":{"clusterTime":"7088045731872768001","signature":{"hash":"tHvytr5QtKcxUtmGzA9SVw+egb0=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088045731872768001"}
+{"$clusterTime":{"clusterTime":"7088045731872768001","signature":{"hash":"tHvytr5QtKcxUtmGzA9SVw+egb0=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088045731872768001"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7088046805614592001","signature":{"hash":"mS8mqt+ze6+7VF20s5hB/HB4Vww=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088046805614592001"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7088072017072619521","signature":{"hash":"/HSzff37QqZBucEGnkzNTwR2dAA=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088072017072619521"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"$clusterTime":{"clusterTime":"7088074250455613441","signature":{"hash":"kvmDvq3A+q81e6r+2vKSR/niSNE=","keyId":"7067463020229689348"}},"code":66,"codeName":"ImmutableField","level":"error","name":"MongoError","ok":0,"operationTime":"7088074250455613441"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"624c88cde49e5149089c645fx\" (type string) at path \"_id\" for model \"User\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"624c88cde49e5149089c645fx\"","value":"624c88cde49e5149089c645fx","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"624c88d1e49e5149089c6463x\" (type string) at path \"_id\" for model \"User\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"624c88d1e49e5149089c6463x\"","value":"624c88d1e49e5149089c6463x","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"all\" (type string) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"all\"","value":"all","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"all\" (type string) at path \"_id\" for model \"Message\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"all\"","value":"all","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"624c902484152a5b542627b9x\" (type string) at path \"_id\" for model \"User\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"624c902484152a5b542627b9x\"","value":"624c902484152a5b542627b9x","valueType":"string"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"You can't upvote your own idea."}}
+{"level":"error","message":{"error":"You can't upvote your own idea."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by this user."}}
+{"level":"error","message":{"error":"You can't upvote your own idea."}}
+{"level":"error"}
+{"level":"error","message":{"error":"Idea is already upvoted by this user."}}
+{"level":"error","message":{"error":"The idea was not upvoted by this user."}}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by this user."}}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by this user."}}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by this user."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":{"error":"Idea is already upvoted by this user."}}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}

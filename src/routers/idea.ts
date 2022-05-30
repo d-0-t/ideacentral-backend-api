@@ -24,7 +24,8 @@ const router = express.Router();
 let auth = passport.authenticate("jwt", { session: false });
 
 router.get("/all", auth, isUserAdmin, findAllIdeas);
-router.get("/published", auth, requesterBannedOrDeleted, findAllPublishedIdeas);
+router.get("/published", findAllPublishedIdeas); // this is public now, but previously it wasn't
+//router.get("/published", auth, requesterBannedOrDeleted, findAllPublishedIdeas);
 router.get(
   "/:id",
   auth,

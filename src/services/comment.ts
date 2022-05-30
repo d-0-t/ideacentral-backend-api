@@ -8,7 +8,10 @@ async function createComment(
 
 async function findAllComments(): Promise<CommentDocument[]> {
   return Comment.find()
-    .populate({ path: "author", select: "login.username power" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "idea",
       select:
@@ -18,7 +21,10 @@ async function findAllComments(): Promise<CommentDocument[]> {
 
 async function findCommentById(id: string): Promise<CommentDocument | null> {
   const comment = await Comment.findById(id)
-    .populate({ path: "author", select: "login.username power" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "idea",
       select:
@@ -29,7 +35,10 @@ async function findCommentById(id: string): Promise<CommentDocument | null> {
 
 async function findCommentsByIdea(idea: string): Promise<CommentDocument[]> {
   return Comment.find({ idea })
-    .populate({ path: "author", select: "login.username power" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "idea",
       select:
@@ -41,7 +50,10 @@ async function findCommentsByAuthor(
   author: string
 ): Promise<CommentDocument[]> {
   return Comment.find({ author })
-    .populate({ path: "author", select: "login.username power" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "idea",
       select:
@@ -58,7 +70,10 @@ async function updateComment(
     { comment },
     { new: true }
   )
-    .populate({ path: "author", select: "login.username power" })
+    .populate({
+      path: "author",
+      select: "login.username personal.avatar power",
+    })
     .populate({
       path: "idea",
       select:

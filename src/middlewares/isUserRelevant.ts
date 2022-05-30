@@ -78,7 +78,7 @@ export class IsUserRelevant {
     checkId = checkId.toString();
     if (checkId) {
       try {
-        let user = await UserService.findOneUser(checkId);
+        let user = await UserService.findOneUserUnpopulated(checkId);
         if (user && checkId) {
           if (user.login.email !== user._id.toString()) return next();
 
@@ -180,7 +180,7 @@ export class IsUserRelevant {
   ) {
     let { recipient } = req.body;
     try {
-      let user = await UserService.findOneUser(recipient);
+      let user = await UserService.findOneUserUnpopulated(recipient);
       if (!user)
         return res
           .status(400)
@@ -212,7 +212,7 @@ export class IsUserRelevant {
 
     let { id } = req.params;
     try {
-      let idea = await IdeaService.findIdeaById(id);
+      let idea = await IdeaService.findIdeaByIdUnpopulated(id);
       if (!idea) return res.status(404).json({ message: msg.notfound });
       if (idea.author.toString() === req.user?._id.toString()) return next();
       if (idea.published) return next();
@@ -230,7 +230,7 @@ export class IsUserRelevant {
   ) {
     let { id } = req.params;
     try {
-      let idea = await IdeaService.findIdeaById(id);
+      let idea = await IdeaService.findIdeaByIdUnpopulated(id);
       if (!idea) return res.status(404).json({ message: msg.notfound });
       if (idea.author.toString() === req.user?._id.toString()) return next();
     } catch (error) {
@@ -249,7 +249,7 @@ export class IsUserRelevant {
 
     let { id } = req.params;
     try {
-      let idea = await IdeaService.findIdeaById(id);
+      let idea = await IdeaService.findIdeaByIdUnpopulated(id);
       if (!idea) return res.status(404).json({ message: msg.notfound });
       if (idea.author.toString() === req.user?._id.toString()) return next();
     } catch (error) {

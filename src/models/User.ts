@@ -1,5 +1,10 @@
 /* eslint-disable @typescript-eslint/member-delimiter-style */
 import mongoose, { Document } from "mongoose";
+export type LinkType = {
+  title: string;
+  url: string;
+  public: boolean;
+};
 
 export type UserDocument = Document & {
   login: {
@@ -37,13 +42,7 @@ export type UserDocument = Document & {
         data: string;
         public: boolean;
       };
-      links: [
-        {
-          title: string;
-          url: string;
-          public: boolean;
-        }
-      ];
+      links: LinkType[];
     };
   };
   ideas: string[];
@@ -110,6 +109,7 @@ const userSchema = new mongoose.Schema(
         },
         links: [
           {
+            _id: false,
             title: { type: String },
             url: { type: String },
             public: { type: Boolean, default: true },
