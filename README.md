@@ -1,6 +1,8 @@
 # **Idea Central - REST API**
 
-[CLICK HERE FOR THE FRONTEND REPO & DEMO](https://github.com/d-0-t/ideacentral-frontend)
+- [[IdeaCentral]](https://ideacentral.netlify.app/) (alpha demo) - a full-stack project with social media-like features
+  - Backend / REST API [[repo]](https://github.com/d-0-t/ideacentral-backend-api)
+  - Frontend: under development - [[repo]](https://github.com/d-0-t/ideacentral-frontend) - [[screenshots]](https://imgur.com/a/o56KUaa)
 
 At Idea Central, after registering an user, the user has access to execute verious operations.  
 Admin roles also exist, with operations that are only accessible to them.
